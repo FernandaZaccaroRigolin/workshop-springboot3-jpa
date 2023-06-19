@@ -18,6 +18,11 @@ Objetivos
 
 ![Login1](src/images/Imagem2.png)
 
+## H2 Console
+
+![image](https://github.com/FernandaZaccaroRigolin/workshop-springboot3-jpa/assets/107860397/97accd3f-6acd-430e-a338-a112d61889a0)
+
+
 ## PostgreSQL 
 
 ![Login1](src/images/Imagem3.png)
